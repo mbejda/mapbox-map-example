@@ -18,12 +18,13 @@ https://docs.mapbox.com/help/glossary/directions-api
 https://docs.mapbox.com/mapbox-gl-js/api
 
 
+## Screenshot
 ![png](screenshots/screenshot.png)
 
 
 
 
-
+## Credits
 If you like this example or have questions, 
 send me a tweet  
 [@notmilosbejda](https://twitter.com/notmilobejda). Don't forget
